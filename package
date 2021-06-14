@@ -1,0 +1,3 @@
+love-release -W 32
+love-release -W 64
+love-release -M --uti public.executable

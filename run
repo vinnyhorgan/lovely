@@ -1,0 +1,5 @@
+cd src
+moonc *.moon
+mv *.lua ..
+cd ..
+love .

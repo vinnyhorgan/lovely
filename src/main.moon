@@ -1,0 +1,1 @@
+love.draw = -> love.graphics.print("Lovely, it works!", 0, 0)
